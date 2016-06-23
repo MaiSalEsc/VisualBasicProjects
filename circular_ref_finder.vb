@@ -1,7 +1,7 @@
   'HALLAR REFERENCIAS RICULARES EN 1 CLICK
-  'Este pedazo de código muestra las posibilidades que ofrece VB para automatizar
-  'y personalizar procesos rutinarios, como hallar referencias circulares en
-  'nuestras fórmulas.
+  'Las siguientes líneas de código muestran las posibilidades que ofrece VB para
+  'automatizar y personalizar procesos rutinarios, como hallar referencias
+  'circulares en nuestras fórmulas.
 
 '1) Creamos un botón en nuestra hoja de Excel
 
