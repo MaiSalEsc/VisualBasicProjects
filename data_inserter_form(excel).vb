@@ -1,3 +1,7 @@
+  'INSERTAR INFORMACIÓN NUEVA MEDIANTE UNA INTERFAZ DE USUARIO (FORMULARIO)
+  'Las siguientes líneas de código muestran las posibilidades que tiene VB para
+  'personalizar y automatizar procesos de introducción de datos y hacerlos más
+  'simples, fiables y amigables.
 
 'PARTE I
   'Tras crear el formulario correspondiente mediante las herramientas de la
