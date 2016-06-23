@@ -1,4 +1,4 @@
-  'COLOREAR UNA PESTAÑA DEPENDIENDO DE UN VALOR CONTENIDO EN SU INTERIOR
+  'COLOREAR AUTOMÁTICAMENTE UNA PESTAÑA DEPENDIENDO DE UN VALOR EN SU INTERIOR
   'Las siguientes líneas de código muestran las posibilidades que tiene VB para
   'personalizar el formato de distintos elementos y automatizar su aplicación.
 
