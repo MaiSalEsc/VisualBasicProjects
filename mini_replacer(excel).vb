@@ -1,3 +1,8 @@
+  'REEMPLAZAR UN STRING POR OTRO EN UN SOLO CLICK
+  'Las siguientes líneas de código muestran las posibilidades que tiene VB para
+  'automatizar tareas como la substitución de trozos de texto (u otro tipo de
+  'variables) por otro.
+
 Sub btnReplacedotxcoma_Click()
 Range("A1:A5").Replace What:=".", Replacement:=",", LookAt:=xlPart, _
        	SearchOrder:=xlByRows, MatchCase:=False,

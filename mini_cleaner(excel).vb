@@ -1,3 +1,7 @@
+  'PEQUEÑO LIMPIADOR DE DATOS
+  'Las siguientes líneas de código muestran las posibilidades que tiene VB para
+  'personalizar y automatizar procesos de extracción de datos.
+
 Private Sub BtnSearch_Click()
 
     'Ejectua CopyDel_A hasta que Find_A = False
