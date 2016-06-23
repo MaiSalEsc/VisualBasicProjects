@@ -1,2 +1,2 @@
 # VisualBasicProjects
-Poryectos con Visual Basic.
+Ejemplos de Visual Basic para Aplicaciones.
